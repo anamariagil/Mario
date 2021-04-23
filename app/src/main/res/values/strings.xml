@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Mario Bros</string>
+    <string name="bmb">Mario Bros</string>
+    <string name="bpp">Planta Piraña</string>
+    <string name="bum">Vida</string>
+    <string name="bbm">Hongo</string>
+    <string name="bg">Goomba</string>
+    <string name="bbo">Bomba</string>
+</resources>
